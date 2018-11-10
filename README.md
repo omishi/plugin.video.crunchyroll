@@ -1,7 +1,8 @@
 # Crunchyroll plugin for Kodi
 
 Crunchyroll a KODI plugin for Crunchyroll.com.
-forked from https://github.com/MrKrabat/plugin.video.crunchyroll
+
+Forked from https://github.com/MrKrabat/plugin.video.crunchyroll
 
 
 You must be a PREMIUM or PREMIUM+ member to use this plugin.
