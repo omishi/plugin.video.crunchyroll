@@ -1,13 +1,10 @@
 # Crunchyroll plugin for Kodi
 
-Crunchyroll a KODI (XBMC) plugin for Crunchyroll.com.
+Crunchyroll a KODI plugin for Crunchyroll.com.
+forked from https://github.com/MrKrabat/plugin.video.crunchyroll
 
-Git repo: https://github.com/MrKrabat/plugin.video.crunchyroll
 
-Forum posting: xxx
-
-**WARNING: You MUST be a PREMIUM member to use this plugin!**
-***
+You must be a PREMIUM or PREMIUM+ member to use this plugin.
 
 What this plugin currently can do:
 - [x] Supports all Crunchyroll regions
